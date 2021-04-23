@@ -1,4 +1,3 @@
-![welcome]()
 ```js
 <Introduction>
 Hello, i do Twitch streams and i'm learning how to code.
