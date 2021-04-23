@@ -9,7 +9,7 @@ Hello, i do Twitch streams and i'm learning how to code.
 
 ### Languages and Tools that i use:
 
-<img align="left" alt="Visual Studio" width="26px" src="https://i.imgur.com/SmRLh4M.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://i.imgur.com/Hkm5NFV.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
