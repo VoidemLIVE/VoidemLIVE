@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=voidemlive)
 
-![](https://github.com/voidemlive/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/username/voidemlive/blob/master/generated/languages.svg)
 
 ![](https://discord.c99.nl/widget/theme-3/547439411856408576.png)
 
