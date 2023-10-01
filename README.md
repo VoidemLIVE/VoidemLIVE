@@ -1,10 +1,6 @@
 <div align= "right">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:349beb,100:ec9cf0&height=200&text=VoidemLIVE&fontAlign=70&rotate=13&fontAlignY=25&desc=Welcome%20to%20my%20Github!&descAlign=70.&descAlignY=44&animation=blink&stroke=000000&strokeWidth=3&fontColor=ffffff" />
   </br><img src="https://komarev.com/ghpvc/?username=voidemlive&color=blue" alt="watching_count" /> 
 </div>
-
-
----
 <div align= "center">
 <h2> &nbsp;About Me</h2>
 Country: United Kingdom
