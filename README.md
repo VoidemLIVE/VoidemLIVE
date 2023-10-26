@@ -9,9 +9,8 @@ Country: United Kingdom
 
 </br>My websites:<br>
 https://voidem.com <br>
-https://greenwoodmc.net<br>
-https://dev.voidemnet.com [OLD-OUTDATED]<br>
-https://olddev.voidemnet.com [OLD-OUTDATED]
+https://greenwoodmc.net[OLD]<br>
+https://dev.voidemnet.com [OLD-OUTDATED]
 
 </div>
 
