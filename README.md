@@ -9,9 +9,7 @@ Country: United Kingdom
 
 </br>My websites:<br>
 https://voidem.com <br>
-https://greenwoodmc.net [OLD]<br>
-https://dev.voidemnet.com [OLD-OUTDATED & Domain expired]
-
+https://greenwoodmc.net<br>
 </div>
 
 ---
