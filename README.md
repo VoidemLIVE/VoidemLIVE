@@ -5,7 +5,7 @@
 <h2> &nbsp;About Me</h2>
 Country: United Kingdom
 </br>Age: 17 Years Old
-</br>I really enjoy creating Minecraft modifications and websites!
+</br>I create websites & Minecraft plugins
 
 </br>My websites:<br>
 https://voidem.com <br>
@@ -18,7 +18,7 @@ https://greenwoodmc.net<br>
 
 <div align= "center">
 <h2> &nbsp;Some Tools I Have Used</h2>
-<img src="https://skillicons.dev/icons?i=ae,blender,cs,cloudflare,css,discord,docker,dotnet,eclipse,git,github,gradle,html,idea,java,js,jquery,kotlin,linux,lua,md,mysql,nginx,nodejs,ps,php,powershell,py,stackoverflow,unity,unreal,visualstudio,vscode,webpack,wordpress&perline=7" />
+<img src="https://skillicons.dev/icons?i=bash,blender,cs,cloudflare,codepen,css,debian,discord,discordjs,docker,eclipse,git,github,gitlab,gradle,html,idea,java,js,jquery,kotlin,linkedin,linux,lua,md,maven,mysql,nginx,nodejs,notion,npm,ps,php,phpstorm,postman,powershell,pycharm,py,robloxstudio,sqlite,stackoverflow,tailwind,ts,ubuntu,visualstudio,vscode,webpack,windows,wordpress&perline=7" />
 </div>
 
 ---
