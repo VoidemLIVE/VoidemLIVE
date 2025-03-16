@@ -7,6 +7,7 @@
   
   ### 🎓 Digital Production, Design & Development T Level Student
   ### 🌟 Full-Stack Developer | Plugin Developer | Web Designer
+  [![wakatime](https://wakatime.com/badge/user/018cfa55-9204-41d6-96af-4ed4e8d0ab5b.svg?style=for-the-badge)](https://wakatime.com/@018cfa55-9204-41d6-96af-4ed4e8d0ab5b)
 </div>
 
 ## 🚀 About Me
