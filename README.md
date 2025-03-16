@@ -32,13 +32,14 @@ I'm a passionate developer and tech enthusiast based in the United Kingdom, curr
   <img src="https://skillicons.dev/icons?i=bash,cs,cloudflare,codepen,css,discord,discordjs,docker,eclipse,git,github,gitlab,gradle,html,idea,java,js,jquery,linkedin,linux,lua,md,maven,mysql,nginx,nodejs,notion,npm,ps,php,postman,powershell,pycharm,py,stackoverflow,tailwind,ubuntu,visualstudio,vscode,webpack,windows,wordpress&perline=7" />
 </div>
 
-## 📊 GitHub Statistics
+## 📊 Statistics
 
 <div align="center">
   <a href="https://github.com/voidemlive">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voidemlive&theme=noctis_minimus&show_icons=true&hide_rank=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidemlive&theme=noctis_minimus&layout=compact"/>
   </a>
+  <a href="https://wakatime.com" title="Since January 2025"><img height="500em" src="https://wakatime.com/share/@voidemlive/2e746b65-8900-4b30-a26f-b837c13f5461.png" /></a>
 </div>
 
 ## 🎮 Featured Project
