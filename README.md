@@ -29,7 +29,7 @@ I'm a passionate developer and tech enthusiast based in the United Kingdom, curr
 ## 💻 Tools & Platforms I Use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,cs,cloudflare,codepen,css,discord,discordjs,docker,eclipse,git,github,gitlab,gradle,html,idea,java,js,jquery,linkedin,linux,lua,md,maven,mysql,nginx,nodejs,notion,npm,ps,php,postman,powershell,pycharm,py,stackoverflow,tailwind,ubuntu,visualstudio,vscode,webpack,windows,wordpress&perline=7" />
+  <img src="https://skillicons.dev/icons?i=bash,c,cloudflare,codepen,css,discord,discordjs,docker,eclipse,git,github,gitlab,gradle,html,idea,java,js,jquery,linkedin,linux,lua,md,maven,mysql,nginx,nodejs,notion,npm,ps,php,phpstorm,postman,pycharm,py,stackoverflow,tailwind,ubuntu,visualstudio,vscode,webpack,windows,wordpress&perline=7" />
 </div>
 
 ## 📊 Statistics
