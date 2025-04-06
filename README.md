@@ -18,7 +18,7 @@ I'm a passionate developer and tech enthusiast based in the United Kingdom, curr
 - Website Development & Design
 - Minecraft Plugin Development
 - Open Source Contributions
-- Community Support & Public Sponsorship
+- Community Support
 
 ### 🌐 My Web Presence
 - [voidem.com](https://voidem.com)
@@ -39,7 +39,7 @@ I'm a passionate developer and tech enthusiast based in the United Kingdom, curr
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voidemlive&theme=noctis_minimus&show_icons=true&hide_rank=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidemlive&theme=noctis_minimus&layout=compact"/>
   </a>
-  <a href="https://wakatime.com" title="Since January 2025"><img height="500em" src="https://wakatime.com/share/@voidemlive/2e746b65-8900-4b30-a26f-b837c13f5461.png" /></a>
+  <a href="https://wakatime.com" title="Since January 2025"><img height="400em" src="https://wakatime.com/share/@voidemlive/d896fd31-080f-4ecb-b6a2-31d18ea0a44f.png" /></a>
 </div>
 
 ## 🎮 Featured Project
