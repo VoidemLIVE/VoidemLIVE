@@ -5,14 +5,14 @@
 <div align="center">
   <h1>👋 Hi, I'm Callum</h1>
   
-  ### 🎓 Digital Production, Design & Development T Level Student
+  ### 🎓 Computer Science Student
   ### 🌟 Full-Stack Developer | Plugin Developer | Web Designer
   [![wakatime](https://wakatime.com/badge/user/018cfa55-9204-41d6-96af-4ed4e8d0ab5b.svg?style=for-the-badge)](https://wakatime.com/@018cfa55-9204-41d6-96af-4ed4e8d0ab5b)
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate developer and tech enthusiast based in the United Kingdom, currently pursuing a T Level in Digital Production, Design, and Development. My journey in technology focuses on creating innovative solutions, particularly in web development and Minecraft plugin creation.
+I'm a passionate developer and tech enthusiast based in the United Kingdom, currently pursuing a Computer Science degree. My journey in technology focuses on creating innovative solutions, particularly in web development and Minecraft plugin creation.
 
 ### 🔭 What I Do
 - Website Development & Design
