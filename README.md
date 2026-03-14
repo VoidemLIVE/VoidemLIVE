@@ -22,7 +22,6 @@ I'm a passionate developer and tech enthusiast based in the United Kingdom, curr
 
 ### 🌐 My Web Presence
 - [voidem.com](https://voidem.com)
-- [callumtelfer.uk](https://callumtelfer.uk)
 - [geo.voidem.com](https://geo.voidem.com)
 - [callum.christmas](https://callum.christmas)
 
